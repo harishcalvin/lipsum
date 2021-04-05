@@ -135,6 +135,11 @@
   .abouttitle,.center{
     text-align: center;
   }
+.aboutlistsitem{
+display:inline-table;
+    width: 70%;
+  margin: auto;
+}
   /**/
   /*** contact ***/
   #contact{
