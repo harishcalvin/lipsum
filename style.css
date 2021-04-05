@@ -121,6 +121,9 @@ margin-top: 15%;
 .abtme-content{
 text-align:center;
 }
+.abouttitle{
+  font-size: 10vh;
+}
 #about{
   background-color: black;
   color: white; 
