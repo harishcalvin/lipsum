@@ -210,6 +210,10 @@ text-align: left;
     .nav-links li {
         opacity: 0;
     }
+    .nav-link{
+      color: black;
+      font-size: 25px;
+  }
 }
 /*media max-width 400px*/
 @media(max-width: 400px){
