@@ -160,7 +160,7 @@ a {
   border-radius: 3px;
 
 }
-#skillsubhead{
+.skillsubhead{
   float: left;
   background-color: transparent;
 }
@@ -184,12 +184,39 @@ a {
   color: grey;
   margin: 15px 10px; 
 }
+.fa-envelope{
+  font-size: 40px;
+  color: grey;
+  margin: 15px 10px; 
+}
+.fa-phone-alt{
+  font-size: 40px;
+  color: grey;
+  margin: 15px 10px; 
+}
 .fa-twitter:hover{
   color: #1DA1F2;
 }
 .fa-github:hover{
   color: #211f1f;
 }
+.fa-free-code-camp:hover{
+  color: green;
+}
+.fa-hackerrank:hover{
+  color: #14ab4b;
+}
+.fa-linkedin-in:hover{
+  color: #0a66c2;
+}
+.fa-codepen:hover{
+  color: black;
+}
+.fa-envelope:hover{
+  color: #d54b3e;
+}
+
+
 .fa-twitter:active{
   color: #1DA1F2;
 }
@@ -234,9 +261,9 @@ a {
 .burger{
         display: block;
   }
-    .nav-links li {
+   /* .nav-links li {
         opacity: 0;
-    }
+    } */
     .nav-link{
       color: black;
       font-size: 25px;
@@ -279,7 +306,7 @@ a {
   .skills{
     padding: 0;
   }
-  #skillsubhead{
+  .skillsubhead{
     font-size: 10px; 
     font-weight: bold;
   }
